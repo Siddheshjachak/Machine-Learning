@@ -1,2 +1,3 @@
 # Machine-Learning-project
-This is a linear regression project based on cars dataset
+There are some of my Machine Learning projects based on different algorithms
+
